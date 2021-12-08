@@ -1,4 +1,4 @@
-# VGA checkerboard display with a red square that moves along the board in response to pressing the push-buttons. 
+# VGA checkerboard display with a red square that moves along the board in response to pressing push-buttons. 
 
 The VGA checkerboard displays a red square that moves along the board in response to either pressing push-buttons or tillting the development board.
 
