@@ -1,3 +1,12 @@
+----------------------------------------------------------------------------------
+--
+-- Author: Kurt Lehmann
+--
+-- Description:
+-- This design is a VGA controller and implements a checkerboard display with a red square
+-- that moves along the board in response to pressing the push-buttons.
+----------------------------------------------------------------------------------
+
 library IEEE; 
 use IEEE.STD_LOGIC_1164.ALL; 
 use IEEE.NUMERIC_STD.ALL; 
