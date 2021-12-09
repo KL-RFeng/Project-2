@@ -87,10 +87,6 @@ architecture Behavioral of top_level is
     signal char3 : STD_LOGIC_VECTOR (0 downto 0);
     signal char3Concatenate : STD_LOGIC_VECTOR (3 downto 0);
 
-
-
-
-
 begin
 reset <= SW(0);
 LED(0) <= SW(0);
@@ -452,6 +448,8 @@ SEG7_CATH  <=  seg7;
 end process;
 
 end Behavioral;   
+
+
 
 ## Clock signal
 set_property -dict { PACKAGE_PIN E3    IOSTANDARD LVCMOS33 } [get_ports { CLK100MHZ }]; #IO_L12P_T1_MRCC_35 Sch=clk100mhz
