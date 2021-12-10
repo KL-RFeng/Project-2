@@ -1,6 +1,6 @@
 # VGA checkerboard display with a red square that moves along the board in response to pressing push-buttons. 
 
-The VGA checkerboard displays a red square that moves along the board in response to either pressing push-buttons on the development board.
+The VGA checkerboard displays a red square that moves along the board in response to pressing push-buttons on the development board.
 
 The VGA checkerboard display is written in VHDL for the NEXYS A7 (formerly NEXYS4) FPGA development board which is designed around the Xilinx Artix-7 FPGA.
 
